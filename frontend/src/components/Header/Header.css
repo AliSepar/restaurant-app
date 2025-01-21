@@ -38,3 +38,30 @@
         }
     }
 }
+
+
+@media (max-width:1050px) {
+    .header{
+
+        .header-contents{
+            max-width: 45%;
+        }
+    }
+}
+
+@media (max-width:750px) {
+    .header{
+
+        .header-contents{
+            max-width: 65%;
+            
+            p{
+                display: none;
+            }
+            button{
+                padding: 2vw 4vw;
+            }
+        }
+    }
+}
+

@@ -4,6 +4,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Outfit", serif;
+  scroll-behavior: smooth;
 }
 body{
   max-height: 100vh;
